@@ -1,0 +1,17 @@
+C:\Users\muham\Desktop\OsAmAxVB\bin\Debug\net6.0-windows\OsAmAxVB.exe
+C:\Users\muham\Desktop\OsAmAxVB\bin\Debug\net6.0-windows\OsAmAxVB.deps.json
+C:\Users\muham\Desktop\OsAmAxVB\bin\Debug\net6.0-windows\OsAmAxVB.runtimeconfig.json
+C:\Users\muham\Desktop\OsAmAxVB\bin\Debug\net6.0-windows\OsAmAxVB.dll
+C:\Users\muham\Desktop\OsAmAxVB\bin\Debug\net6.0-windows\OsAmAxVB.pdb
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.vbproj.AssemblyReference.cache
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.Form1.resources
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.vbproj.GenerateResource.cache
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.AssemblyInfo.vb
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.vbproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.dll
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\refint\OsAmAxVB.dll
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.pdb
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\OsAmAxVB.genruntimeconfig.cache
+C:\Users\muham\Desktop\OsAmAxVB\obj\Debug\net6.0-windows\ref\OsAmAxVB.dll
